@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'lettuce.jpg': 'center',
-							'tomatos.jpg': 'center',
-							'mushrooms.jpg': 'center'
+							'images/lettuce.jpg': 'center',
+							'images/tomatos.jpg': 'center',
+							'images/mushrooms.jpg': 'center'
 						},
 
 					// Delay.
