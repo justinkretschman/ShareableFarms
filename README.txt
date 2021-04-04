@@ -1,31 +1,3 @@
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Jesse Wanamaker is a freshman at Pace University and student at the Lubin School Of Business. Jesse is graduating in 2024 with an undergraduate major in Entrepreneurship and Management. Jesse is an avid sports enthusiast. His hobbies include martial arts and backpacking. Jesse is currently employed as a martial arts instructor during the school year, and a marketing director for the Laingdon Hotel during the summer. Jesse is interested in starting his own business from the ground up and revolutionizing the farming industry. 
 
-
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Justin Kretschman is a full-time Sophomore studying to achieve a Bachelor's Degree at Stevens Institute of Technology. His undergraduate major is Engineering Management, which he should finish in the Spring of 2023. Justin is currently living in Ocean Grove, NJ and is managing a 17-room hotel called the Laingdon in Ocean Grove, NJ alongside his elderly grandparents. In addition he works remotely part-time as an IT specialist for Plexi-Craft Quality Products Co in New York, NY. Justin enjoys backpacking and bouldering (a form of rock climbing) in his little spare time. 
